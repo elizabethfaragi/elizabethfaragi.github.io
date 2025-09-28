@@ -1,0 +1,98 @@
+/*font-family: "Barrio", system-ui;
+#font-family: "DM Serif Text", serif;
+#font-family: "Coming Soon", cursive;*/
+
+h1 {
+    font-family: "Barrio", system-ui;
+    
+}
+
+body {
+    font-family: "Coming Soon", cursive;
+}
+
+h2{
+  font-family: "DM Serif Text", serif;  
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 75pt;
+}
+
+.Getyourfavorite {
+    background-color: #ffcad4;
+    padding: 20pt;
+    margin: 10px;
+}
+
+.address {
+    margin: 10px;
+    
+}
+
+.schedule {
+    margin:10px;
+
+}
+
+#coffeecups {
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.OurStory{
+    padding: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#man{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    margin-top: 40px;
+    
+}
+
+.OurMission{
+    margin: top 30px;
+    padding: 20px;
+}
+
+.quotes{
+    text-align: center;
+    margin: 20px;
+    font-style: italic;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+}
+
+.OrderAhead{
+    text-decoration: none;
+
+}
+
+.Doordash{
+    text-decoration: underline;
+}
+
+.weekdays{
+    font-style: italic;
+}
+
+.weekends{
+    font-style: italic;
+}
+
+.FederalHill{
+    font-style: italic;
+}
+
