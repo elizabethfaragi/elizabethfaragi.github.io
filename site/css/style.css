@@ -1,0 +1,86 @@
+/*font-family: "Merriweather", serif;
+font-family: "Poppins", sans-serif; 
+font-family: "Lora", serif; */
+
+header {
+   font-family: "Merriweather",serif;
+   font-weight: bold;
+   background-color: #2a0800;
+   color: #f4dbd8;
+   text-align: center;
+   padding: 50pt;
+}
+
+nav {
+    text-decoration: none;
+    color: #f4dbd8;
+}
+
+body {
+    font-family: "Lora", serif;
+    background-color: #f4dbd8;
+}
+
+footer{
+    background-color: #2a0800;
+    text-align: center;
+    padding: 60pt;
+    font-family: "Merriweather", serif;
+    font-size: 15pt;
+}
+
+#headshot {
+    padding-top: 20pt;
+    padding-bottom: 20pt;
+}
+
+#AboutMe {
+    padding-top: 10pt;
+    color: #775144 ;
+}
+
+#Skills {
+    color:#775144;
+    font-weight: bold;
+}
+
+#Homepage {
+    text-align: center;
+    font-size: 15pt;
+    padding: 50pt
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+#Journalist {
+    font-style: italic;
+}
+
+#SBS {
+    padding-top: 10pt;
+    background-color: #c09891 ;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 22pt;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 18pt;
+}
+
+h4 {
+    font-size: 15pt;
+}
+
+p {
+    font-size: 12pt;
+}
+
+#DBK {
+    background-color: #bea8a7;
+}
