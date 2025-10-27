@@ -4,16 +4,18 @@ font-family: "Lora", serif; */
 
 header {
    font-family: "Merriweather",serif;
-   font-weight: bold;
    background-color: #2a0800;
    color: #f4dbd8;
    text-align: center;
    padding: 50pt;
+   font-size: 30pt;
+   font-style: italic;
 }
 
-nav {
+nav a{
     text-decoration: none;
     color: #f4dbd8;
+
 }
 
 body {
@@ -46,12 +48,14 @@ footer{
 
 #Homepage {
     text-align: center;
-    font-size: 15pt;
-    padding: 50pt
+    padding: 50px;
+    font-size: 50pt;
 }
 
 h1 {
-    font-size: 40pt;
+    font-size: 50pt;
+    font-family: "Merriweather",serif;
+    font-style: normal;
 }
 
 #Journalist {
@@ -59,7 +63,7 @@ h1 {
 }
 
 #SBS {
-    padding-top: 10pt;
+    margin-top: 10pt;
     background-color: #c09891 ;
 }
 
@@ -83,4 +87,51 @@ p {
 
 #DBK {
     background-color: #bea8a7;
+}
+
+.SBS-Logo {
+    width: 300px;
+    height:300px;
+    margin-top: 20px;
+}
+
+.His-eye-logo {
+    width:400px;
+    height: 300px;
+}
+
+#OPTIC {
+    background-color: #c09891;
+}
+
+#HISEYE {
+    background-color: #bea8a7;
+}
+
+#LEADER {
+    background-color: #c09891;
+}
+
+#Me {
+    margin: 10px;
+}
+
+a {
+    color: #2a0800;
+    text-decoration: none;
+    font-size: 20pt;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.text {
+    color: #2a0800;
+    font-size: 15pt;
+}
+
+.socials {
+    color:#f4dbd8;
+    text-align: center;
 }
