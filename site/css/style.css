@@ -2,136 +2,111 @@
 font-family: "Poppins", sans-serif; 
 font-family: "Lora", serif; */
 
+body,
+strong {
+    font-family: "Lora", serif;
+    background-color: #f4dbd8;
+    font-size: 16px;
+    color: #2a0800;
+}
+
+
 header {
-   font-family: "Merriweather",serif;
-   background-color: #2a0800;
-   color: #f4dbd8;
-   text-align: center;
-   padding: 50pt;
-   font-size: 30pt;
    font-style: italic;
 }
 
-nav a{
-    text-decoration: none;
-    color: #f4dbd8;
-
-}
-
-body {
-    font-family: "Lora", serif;
-    background-color: #f4dbd8;
-}
-
 footer{
-    background-color: #2a0800;
-    text-align: center;
-    padding: 60pt;
-    font-family: "Merriweather", serif;
-    font-size: 15pt;
+    font-size: 15px;
 }
 
-#headshot {
-    padding-top: 20pt;
-    padding-bottom: 20pt;
+footer a{
+    padding: 0 20px;
 }
 
-#AboutMe {
-    padding-top: 10pt;
-    color: #775144 ;
-}
-
-#Skills {
-    color:#775144;
-    font-weight: bold;
-}
-
-#Homepage {
-    text-align: center;
-    padding: 50px;
-    font-size: 50pt;
+header,
+footer {
+    font-family: "Merriweather",serif;
+   background-color: #2a0800;
+   color: #f4dbd8;
+   text-align: center;
+   padding: 50px;
+   font-size: 2.5em;
 }
 
 h1 {
-    font-size: 50pt;
+    font-size: 4em;
     font-family: "Merriweather",serif;
     font-style: normal;
+}
+
+
+h2 {
+    font-weight: bold;
+    font-size: 1.75em;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
 }
 
 #Journalist {
     font-style: italic;
 }
 
-#SBS {
-    margin-top: 10pt;
-    background-color: #c09891 ;
+
+main{
+    padding:2em;
 }
 
-h2 {
-    font-weight: bold;
-    font-size: 22pt;
+nav a{
+    text-decoration: none;
+    color: #f4dbd8;
 }
 
-h3 {
-    font-style: italic;
-    font-size: 18pt;
+#AboutMe {
+    padding-top: 10pt;
 }
 
-h4 {
-    font-size: 15pt;
+
+.dark {
+    background-color: #c09891;
 }
 
-p {
-    font-size: 12pt;
-}
-
-#DBK {
+.light {
     background-color: #bea8a7;
 }
 
+
 .SBS-Logo {
     width: 300px;
-    height:300px;
-    margin-top: 20px;
+    margin:0 auto;
+    display: block;
+    margin: 0 0 24px 0;
 }
 
 .His-eye-logo {
     width:400px;
-    height: 300px;
-}
-
-#OPTIC {
-    background-color: #c09891;
-}
-
-#HISEYE {
-    background-color: #bea8a7;
-}
-
-#LEADER {
-    background-color: #c09891;
-}
-
-#Me {
-    margin: 10px;
+    margin:0 auto;
+    display: block;
+    margin: 0 0 24px 0;
 }
 
 a {
     color: #2a0800;
     text-decoration: none;
-    font-size: 20pt;
+    font-size: 20px;
 }
 
 a:hover {
     font-weight: bold;
 }
 
-.text {
-    color: #2a0800;
-    font-size: 15pt;
-}
-
-.socials {
-    color:#f4dbd8;
+footer a {
+    color: #f4dbd8;
     text-align: center;
 }
