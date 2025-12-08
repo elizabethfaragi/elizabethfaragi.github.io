@@ -1,0 +1,78 @@
+/* font-family: "Open Sans", sans-serif;
+font-family: "Oswald", sans-serif; 
+dark blue: 03045e
+middle blue: 0077b6
+almost white: caf0f8
+kinda teal: 90e0ef 
+dark ish blue: 023e8a*/
+
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 25px;
+    font-size: 16px;
+    background-color: #fff;
+    
+}
+
+header {
+    text-align: center;
+    font-family: "Oswald",sans-serif;
+    border: #03045e, 2px, solid;
+    color: #0077b6;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+#lede{
+    margin:10px;
+}
+
+section {
+    margin: 25px;
+}
+
+h4 {
+   font-weight: bold;
+   text-align: center;
+   color:#0077b6;
+}
+
+.box {
+   border: #023e8a, 2px, solid;
+   padding: 20px; 
+}
+
+
+.container-fluid {
+    width: 95%;
+    text-align: center;
+    justify-content: center;
+}
+
+#protest {
+    width: 99%;
+}
+
+#wes-moore {
+    width: 99%;
+}
+
+.photo-caption {
+    font-style: italic;
+}
+
+b {
+    color:#0077b6;
+}
